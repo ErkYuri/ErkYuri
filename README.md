@@ -4,7 +4,7 @@
 
   <p><i>"Every promise stands the taste of time."</i></p>
 
-  <a href="https://www.linkedin.com/in/%C3%A9rick-yuri-rodrigues-540953260/" target="_blank">
+  <a href="https://www.linkedin.com/in/erkyuri/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:erickyurirodrigues@gmail.com" target="_blank">
