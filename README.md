@@ -20,17 +20,17 @@
 <td width="50%" valign="top">
 <h3>📖 SOBRE MIM</h3>
 <p>Graduando em <strong>Sistemas de Informação pela UFOP</strong>. Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
-<ul>
+<!-- <ul>
 <li>🎓 <strong>ESTUDANDO:</strong> Engenharia de Software e Programação Front/Back-end.</li>
 <li>🎯 <strong>BUSCANDO:</strong> Desafios práticos e oportunidades na área tech.</li>
-</ul>
-<br>
-<h3>💡 PROJETOS EM DESTAQUE</h3>
-<ul>
-<li>🚲 <strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MYRYDE</a>:</strong> Gestão de autonomia de bicicleta elétrica.</li>
-<li>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">ABLEGO</a>:</strong> Acessibilidade urbana.</li>
-<li>🎮 <strong><a href="https://github.com/ErkYuri/CyberChord" target="_blank">CYBERCHORD</a>:</strong> Jogo acadêmico.</li>
-</ul>
+</ul> -->
+
+<h3>🎓 ESTUDANDO</h3>
+<p>Engenharia de Software e Programação Front/Back-end.</p>
+
+<h3>🎯 BUSCANDO</h3>
+<p>Desafios práticos e oportunidades na área tech.</p>
+
 </td>
 <td width="50%" valign="top">
 <h3>🛠️ TECNOLOGIAS</h3>
@@ -47,6 +47,14 @@
 <img src="https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/POWER_AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+
+<h3>💡 PROJETOS EM DESTAQUE</h3>
+<ul>
+<li>🚲 <strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MYRYDE</a>:</strong> Gestão de autonomia de bicicleta elétrica.</li>
+<li>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">ABLEGO</a>:</strong> Acessibilidade urbana.</li>
+<li>🎮 <strong><a href="https://github.com/ErkYuri/CyberChord" target="_blank">CYBERCHORD</a>:</strong> Jogo acadêmico.</li>
+</ul>
+
 </td>
 </tr>
 </table>
