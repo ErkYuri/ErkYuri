@@ -51,13 +51,11 @@
 
 #   Projetos em Destaque
 
-<ul>
-<p>
-  🚲<strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MyRyde</a>:</strong> Gestão de autonomia de bicicleta elétrica.
-</p>
-<li>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">AbleGo</a>:</strong> Acessibilidade urbana.</li>
-<li>🎮 <strong><a href="https://github.com/ErkYuri/CyberChord" target="_blank">CyberChord</a>:</strong> Jogo acadêmico.</li>
-</ul>
+
+<p>🚲 <strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MyRyde</a>:</strong> Gestão de autonomia de bicicleta elétrica.</p>
+<p>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">AbleGo</a>:</strong> Acessibilidade urbana.</p>
+<p>🎮 <strong><a href="https://github.com/ErkYuri/CyberChord" target="_blank">CyberChord</a>:</strong> Jogo acadêmico.</p>
+
 
 </td>
 </tr>
