@@ -29,8 +29,8 @@
 
 <div align="center">
 <!-- <h3>📈 ESTATÍSTICAS</h3> -->
-<img src="https://github-readme-stats.vercel.app/api?username=ErkYuri&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErkYuri&show_icons=true&theme=tokyonight&hide_border=true" width="52%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" width="44%" />
 </div>
 
 </td>
