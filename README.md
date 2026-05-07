@@ -25,15 +25,10 @@
 <p>🎓 Graduando em <strong>Sistemas de Informação pela UFOP</strong>.</p>
 <p>🧩 Engenharia de Software e Programação Front/Back-end.</p>
 <p>🎯 Desafios práticos e oportunidades na área tech.</p>
-<!-- <ul>
-<li>🎓 <strong>ESTUDANDO:</strong> Engenharia de Software e Programação Front/Back-end.</li>
-<li>🎯 <strong>BUSCANDO:</strong> Desafios práticos e oportunidades na área tech.</li>
-</ul> -->
+
 
 <div align="center">
-<!-- <h3>📈 ESTATÍSTICAS</h3> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ErkYuri&show_icons=true&theme=tokyonight&hide_border=true" width="52%" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" height="220" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&hide_border=true&background=0D1117&ring=0077B5&fire=9954CC&currStreakNum=C9D1D9&currStreakLabel=9954CC&sideNums=C9D1D9&sideLabels=0077B5&dates=8B949E" height="220" alt="streak graph"/>
 </div>
 
 </td>
