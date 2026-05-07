@@ -18,22 +18,24 @@
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>📖 SOBRE MIM</h3>
-<p>Graduando em <strong>Sistemas de Informação pela UFOP</strong>. Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
+<h3>SOBRE MIM</h3>
+<p>🎓 Graduando em <strong>Sistemas de Informação pela UFOP</strong>. Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
+<p>🧩 Engenharia de Software e Programação Front/Back-end.</p>
+<p>🎯 Desafios práticos e oportunidades na área tech.</p>
 <!-- <ul>
 <li>🎓 <strong>ESTUDANDO:</strong> Engenharia de Software e Programação Front/Back-end.</li>
 <li>🎯 <strong>BUSCANDO:</strong> Desafios práticos e oportunidades na área tech.</li>
 </ul> -->
 
-<h3>🎓 ESTUDANDO</h3>
-<p>Engenharia de Software e Programação Front/Back-end.</p>
-
-<h3>🎯 BUSCANDO</h3>
-<p>Desafios práticos e oportunidades na área tech.</p>
+<div align="center">
+<h3>📈 ESTATÍSTICAS</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=ErkYuri&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
 </td>
 <td width="50%" valign="top">
-<h3>🛠️ TECNOLOGIAS</h3>
+<h3>TECNOLOGIAS</h3>
 <p>Desenvolvimento ágil focado em entrega de valor e eficiência.</p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,7 +50,7 @@
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/POWER_AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 
-<h3>💡 PROJETOS EM DESTAQUE</h3>
+<h3>PROJETOS EM DESTAQUE</h3>
 <ul>
 <li>🚲 <strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MYRYDE</a>:</strong> Gestão de autonomia de bicicleta elétrica.</li>
 <li>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">ABLEGO</a>:</strong> Acessibilidade urbana.</li>
@@ -61,8 +63,3 @@
 
 ---
 
-<div align="center">
-<h3>📈 ESTATÍSTICAS</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=ErkYuri&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" width="49%" />
-</div>
