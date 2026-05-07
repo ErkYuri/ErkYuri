@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&pause=1000&color=9954CC&center=true&vCenter=true&width=400&lines=BEM-VINDO(A)+AO+MEU+PERFIL!;PRAZER,+%C3%89RICK+YURI+%F0%9F%91%8B" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&pause=1000&color=9954CC&center=true&vCenter=true&width=400&lines=BEM-VINDO(A)+AO+MEU+PERFIL!;PRAZER,+%C3%89RICK+YURI+%F0%9F%91%8B" alt="Typing SVG" />
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&pause=1000&color=9954CC&center=true&vCenter=true&width=400&lines=BEM-VINDO(A)+AO+MEU+PERFIL!;PRAZER,+%C3%89RICK+YURI+%F0%9F%91%8B" alt="Typing SVG" />
 
   <p><i>"Every promise stands the taste of time."</i></p>
