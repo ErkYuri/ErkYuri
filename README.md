@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9954CC&center=true&vCenter=true&width=400&lines=BEM-VINDO(A)+AO+MEU+PERFIL!;PRAZER,+%C3%89RICK+YURI+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9954CC&center=true&vCenter=true&width=400&lines=BEM-VINDO(A)+AO+MEU+PERFIL!;PRAZER,+%C3%89RICK+YURI+%F0%9F%91%8B" alt="Typing SVG" />
 
-<p><i>"Every promise stands the taste of time."</i></p>
+  <p><i>"Every promise stands the taste of time."</i></p>
 
-<a href="https://www.linkedin.com/in/%C3%A9rick-yuri-rodrigues-540953260/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:erickyurirodrigues@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://www.linkedin.com/in/%C3%A9rick-yuri-rodrigues-540953260/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:erickyurirodrigues@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-9954CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
@@ -39,7 +39,7 @@
 </td>
 <td width="50%" valign="top">
 
-#   Tecnologias e Ferramentas
+#   Tecnologias & Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
