@@ -18,7 +18,9 @@
 <table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>Sobre mim</h3>
+
+#   Sobre mim
+
 <p>🎓 Graduando em <strong>Sistemas de Informação pela UFOP</strong>. Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
 <p>🧩 Engenharia de Software e Programação Front/Back-end.</p>
 <p>🎯 Desafios práticos e oportunidades na área tech.</p>
@@ -30,13 +32,13 @@
 <div align="center">
 <!-- <h3>📈 ESTATÍSTICAS</h3> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ErkYuri&show_icons=true&theme=tokyonight&hide_border=true" width="52%" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" width="60%" height="100" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=true" height="220" alt="streak graph"/>
 </div>
 
 </td>
 <td width="50%" valign="top">
-<h3>Tecnologias e Ferramentas</h3>
-<p>Desenvolvimento ágil focado em entrega de valor e eficiência.</p>
+
+#   Tecnologias e Ferramentas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,7 +52,8 @@
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/POWER_AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 
-<h3>Projetos em Destaque</h3>
+#   Projetos em Destaque
+
 <ul>
 <li>🚲 <strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MYRYDE</a>:</strong> Gestão de autonomia de bicicleta elétrica.</li>
 <li>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">ABLEGO</a>:</strong> Acessibilidade urbana.</li>
