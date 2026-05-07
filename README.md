@@ -28,7 +28,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&hide_border=true&background=0D1117&ring=0077B5&fire=9954CC&currStreakNum=C9D1D9&currStreakLabel=9954CC&sideNums=C9D1D9&sideLabels=0077B5&dates=8B949E" height="220" alt="streak graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErkYuri&theme=tokyonight&hide_border=false&border=FFFFFF&background=161B22&ring=0077B5&fire=9954CC&currStreakNum=C9D1D9&currStreakLabel=9954CC&sideNums=C9D1D9&sideLabels=0077B5&dates=8B949E" height="220" alt="streak graph"/>
 </div>
 
 </td>
