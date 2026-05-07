@@ -21,7 +21,8 @@
 
 #   Sobre mim
 
-<p>🎓 Graduando em <strong>Sistemas de Informação pela UFOP</strong>. Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
+<p>Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
+<p>🎓 Graduando em <strong>Sistemas de Informação pela UFOP</strong>.</p>
 <p>🧩 Engenharia de Software e Programação Front/Back-end.</p>
 <p>🎯 Desafios práticos e oportunidades na área tech.</p>
 <!-- <ul>
@@ -39,18 +40,19 @@
 <td width="50%" valign="top">
 
 #   Tecnologias e Ferramentas
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/POWER_AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/POWER_AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+</div>
 
 #   Projetos em Destaque
 
