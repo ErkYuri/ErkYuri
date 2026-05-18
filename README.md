@@ -21,7 +21,7 @@
 
 #   Sobre mim
 
-<p>Apaixonado por lógica e focado em resolver problemas reais através do desenvolvimento web.</p>
+<p>Apaixonado por tecnologia e focado em resolver problemas reais através do desenvolvimento web.</p>
 <p>🎓 Graduando em <strong>Sistemas de Informação | UFOP</strong>.</p>
 <p>🧩 Engenharia de Software e Programação Front/Back-end.</p>
 <p>🎯 Desafios práticos e oportunidades na área tech.</p>
