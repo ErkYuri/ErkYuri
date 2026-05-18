@@ -55,6 +55,7 @@
 <p>🚲 <strong><a href="https://github.com/ErkYuri/MyRyde" target="_blank">MyRyde</a>:</strong> Gestão de autonomia de bicicleta elétrica.</p>
 <p>♿ <strong><a href="https://github.com/ErkYuri/AbleGo" target="_blank">AbleGo</a>:</strong> Acessibilidade urbana.</p>
 <p>🎮 <strong><a href="https://github.com/ErkYuri/CyberChord" target="_blank">CyberChord</a>:</strong> Jogo acadêmico.</p>
+<p>📙 <strong><a href="https://github.com/ErkYuri/GradFlow" target="_blank">GradFlow</a>:</strong> Sistema para gestão de frequência e notas na faculdade.</p>
 
 
 </td>
