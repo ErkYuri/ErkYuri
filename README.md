@@ -23,7 +23,7 @@
 
 <p>Sempre conectado à tecnologia e focado em resolver problemas reais através do desenvolvimento de sistemas e soluções inteligentes de negócio.</p>
 <p>🎓 Graduando em <strong>Sistemas de Informação | UFOP</strong>.</p>
-<p>🧩 Engenharia de Software e Programação Front/Back-end.</p>
+<p>🧩 Engenharia de Software e Desenvolvimento Web.</p>
 <p>🎯 Desafios práticos e oportunidades na área tech.</p>
 
 
